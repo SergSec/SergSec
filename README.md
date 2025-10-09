@@ -9,8 +9,7 @@
 
 🎯 Actualmente en proceso de obtener la certificación **eJPTv2** con la meta de alcanzar **OSCP**.
 
-![eJPT Progress](https://img.shields.io/badge/eJPT-In%20Progress-yellow)  
-![OSCP Goal](https://img.shields.io/badge/OSCP-Goal-red)
+![OSCP Goal](https://img.shields.io/badge/OSCP-In%20Progress-yellow)
 
 📫 **Contacto:** sergiopernasp@gmail.com
 
