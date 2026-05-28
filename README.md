@@ -1,54 +1,91 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd6Z2NieDV4NWN4emk0d2ptbHA0OXBxejRzOHZidTZkb2Z3dnh5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="hacker gif" width="200" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd6Z2NieDV4NWN4emk0d2ptbHA0OXBxejRzOHZidTZkb2Z3dnh5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="security gif" width="200" />
 </p>
 
-# Hola, soy Sergio Pernas  
-### Pentester y Desarrollador de Software
+# Hi, I'm Sergio Pernas  
+### Offensive Security | Active Directory Specialist | Red Team Operations | Cyber Risk Engineering
 
 ---
 
-🎯 Actualmente en proceso de obtener la certificación **eJPTv2** con la meta de alcanzar **OSCP**.
+Cybersecurity professional focused on **enterprise offensive security**, specializing in **Active Directory exploitation, red team operations, and security automation**.
 
-![OSCP Goal](https://img.shields.io/badge/OSCP-In%20Progress-yellow)
-
-📫 **Contacto:** sergiopernasp@gmail.com
+My work is centered around simulating real-world adversaries inside **enterprise environments (Windows domains, hybrid infrastructures, and identity-driven networks)**, with a strong emphasis on translating technical exploitation into **business risk and security impact**.
 
 ---
 
-### 🔗 Conecta conmigo:
+### Core Specializations
 
-<a href="https://www.linkedin.com/in/sergiopernas/" target="_blank" title="LinkedIn">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
-</a>
+#### Active Directory Exploitation (Enterprise Focus)
+- AD attack paths analysis (BloodHound-based methodologies)
+- Kerberos attacks (Kerberoasting, AS-REP roasting, delegation abuse)
+- Privilege escalation in Windows domain environments
+- Lateral movement across enterprise networks
+- Domain dominance techniques (credential access → DA compromise)
+- Misconfiguration exploitation in identity infrastructure (ACLs, GPOs, ADCS)
+
+#### Red Team & Adversary Emulation
+- Full-chain attack simulation (initial access → domain compromise)
+- C2 operations and post-exploitation frameworks
+- Command-and-Control infrastructure design and usage
+- OPSEC-aware execution in monitored environments
+- Evasion techniques against EDR/AV controls (methodology-focused)
+- Realistic threat actor simulation aligned with MITRE ATT&CK
+
+#### Security Engineering & Automation
+- Development of offensive security tooling
+- Automation of reconnaissance and attack surface mapping
+- Security scripting for AD and infrastructure testing
+- Custom workflows for penetration testing efficiency
 
 ---
 
-### 🚀 Proyectos
+### Security Mindset
+
+I approach security from an **adversary simulation and risk-driven perspective**, focusing on how vulnerabilities propagate through **identity systems, enterprise trust relationships, and Windows domain architectures**.
+
+My objective is to identify not only technical weaknesses, but also how they translate into:
+- Organizational compromise
+- Identity takeover risks
+- Business-critical exposure in regulated environments
+
+Particularly interested in **financial services and insurance environments**, where Active Directory and identity systems are core to enterprise security posture.
+
+---
+
+### Certification Path
+![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-yellow)
+
+- Offensive Security Certified Professional (OSCP) — In Progress
+
+---
+
+### Featured Project
 
 - [Pentest Auto Scanner](https://github.com/SergSec/pentest-auto-scanner)  
-  Automatización de escaneo y reconocimiento para auditorías de seguridad.
+  Offensive security automation tool designed for **Active Directory reconnaissance and attack surface discovery**, focused on improving efficiency during internal penetration testing and red team engagements.
 
 ---
 
+### Technical Stack
 
-### 🧰 Tecnologías y herramientas que manejo:
+#### Offensive Security & Scripting
+Python, Bash, PowerShell, JavaScript, Ruby, Go
 
-#### Lenguajes de programación
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />
-</p>
+#### Red Team / AD Tooling Ecosystem
+- Active Directory enumeration & exploitation tooling
+- Kerberos-based attack tooling workflows
+- Credential access & privilege escalation frameworks
+- C2 frameworks for post-exploitation operations
+- Custom automation for reconnaissance & domain analysis
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+#### Infrastructure & Development
+Java, Kotlin, Swift, Flutter  
+PostgreSQL, Linux environments, API automation
 
+---
+
+### Contact
+- Email: **sergiopernasp@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/sergiopernas/
+
+---
