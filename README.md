@@ -3,7 +3,7 @@
 </p>
 
 # Hi, I'm Sergio Pernas  
-### Offensive Security | Active Directory Specialist | Red Team Operations | Cyber Risk Engineering
+### Pentester & Red Team Operator
 
 ---
 
